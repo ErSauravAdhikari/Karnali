@@ -9,7 +9,7 @@ api = NinjaAPI(csrf=True)
 api.add_router('auth/', auth_api)
 api.add_router('', book_api)
 
-urlpatterns = {
+urlpatterns = [
     path("api/", api.urls, name="api"),
     path("", redirect_to_docs, name="index"),
-}
+]
