@@ -1,13 +1,13 @@
 
 # Karnali
 
-Karnali is an example app I have built while learning to use the django ninja rest api framework. 
+Karnali is a demo app I created while learning how to use the Django Ninja Rest API framework.
 
-It is a simple app with two models for books and chapters. Each chapter referencing the book. 
+It's a straightforward app with two models for books and chapters. A book is referenced in each chapter.
 
-I spent around 3-4 hours trying to learn this new framework and this is the example app I built as a result of that.
+I spent around 3–4 hours learning this new framework, and here is the sample app I created as a consequence.
 
-Although I believe I don't need to say this, however Please do not use this code in any production settings. This will not be maintained and no new features will be added in this app.
+Please do not use this code in any production situations, despite the fact that I feel I do not need to mention it. This app will not be updated, and no new features will be added.
 
 
 ## Lessons Learned
