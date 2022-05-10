@@ -22,7 +22,6 @@ Although I believe I don't need to say this, however Please do not use this code
  - [Django Project](https://www.djangoproject.com/)
  - [Django Ninja Rest Framework](https://django-ninja.rest-framework.com/)
  - [Django Ninja Authentication (Some Codes Were Referenced)](https://github.com/mugartec/django-ninja-auth)
- - [Django Project](https://www.djangoproject.com/)
 
 
 ## Authors
